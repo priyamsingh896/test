@@ -1,0 +1,23 @@
+body{background-color: gray;
+background-image: url(2.jpg);
+background-size: cover;}
+.image{margin-left:center; 
+}
+img{border-radius: 100px;
+	display:block;
+	margin-right:left;
+	margin-left: auto;
+	margin-top: auto;
+/* THIS CODE IS USING FOR THE SHADOW EFFECT*/
+}
+img:hover{box-shadow: 0 0 180px 5px rgba(0,150,190,0.5);
+}
+a:link{color: yellow;}
+.form{
+	display: flex;
+	width:30%;
+	justify-content: space-between;
+}
+.form p{
+	color:#ffffff;
+}
